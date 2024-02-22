@@ -1,0 +1,21 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 100vw;
+}
+a{
+    display: block;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: -10px;
+}
+::-webkit-scrollbar{/*serve para alterar ou remover a barra de rolagem, diminuindo tamanho...*/
+    width: 0px;  
+}
