@@ -15,6 +15,10 @@ a{
     text-decoration: none;
     padding: 10px;
     margin-top: -10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 ::-webkit-scrollbar{/*serve para alterar ou remover a barra de rolagem, diminuindo tamanho...*/
     width: 0px;  
